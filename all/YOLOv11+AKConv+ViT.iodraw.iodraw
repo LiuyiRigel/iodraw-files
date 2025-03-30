@@ -1152,6 +1152,21 @@
             <mxPoint x="3000" y="421.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-356" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="582.5" width="145" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-357" value="Reshaple" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3132.5" y="721.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-358" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3132.5" y="678.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-359" value="DSC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#A9C4EB;strokeColor=#6666FF;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3132.5" y="635.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-360" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;flipV=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3132.5" y="593" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
