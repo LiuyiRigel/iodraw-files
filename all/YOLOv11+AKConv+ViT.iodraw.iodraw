@@ -444,8 +444,8 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-128" value="64 x 80 x 80" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="698" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-129" value="64 x 80 x 80" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="30" y="708" width="180" height="30" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-129" value="32 x 160 x 160" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="768" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
