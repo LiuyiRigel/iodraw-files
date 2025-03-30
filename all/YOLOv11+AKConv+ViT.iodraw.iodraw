@@ -567,8 +567,8 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-173" value="16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="460" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-175" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="110" y="1073" width="100" height="40" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-175" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="1073" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-177" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="2130" y="250" width="500" height="720" as="geometry" />
