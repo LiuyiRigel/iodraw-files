@@ -1122,8 +1122,11 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-344" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dArM8sgQJal5dEUl7qLk-343">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3140" y="540" as="sourcePoint" />
-            <mxPoint x="3035" y="350" as="targetPoint" />
+            <mxPoint x="3035" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-345" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="368" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
