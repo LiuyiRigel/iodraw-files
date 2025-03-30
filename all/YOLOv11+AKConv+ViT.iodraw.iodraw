@@ -487,7 +487,7 @@
           <mxGeometry x="528" y="580" width="102" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-144" value="192 x 40 x 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="490" y="634" width="180" height="30" as="geometry" />
+          <mxGeometry x="508" y="640" width="142" height="24" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-145" value="64 x 40 x 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="490" y="713" width="180" height="30" as="geometry" />
