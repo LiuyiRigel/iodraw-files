@@ -1119,9 +1119,6 @@
             <mxPoint x="3035" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-345" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="372.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-347" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dArM8sgQJal5dEUl7qLk-335" target="dArM8sgQJal5dEUl7qLk-336">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3190" y="730" as="sourcePoint" />
@@ -1146,8 +1143,8 @@
             <mxPoint x="3280" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-352" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="412" width="80" height="40" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-352" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3045" y="350" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
