@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-39" value="Contact" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="470" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="663" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dArM8sgQJal5dEUl7qLk-41" target="dArM8sgQJal5dEUl7qLk-43">
           <mxGeometry relative="1" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry x="344" y="570" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-138" value="128 x 40 x 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="673" width="144" height="30" as="geometry" />
+          <mxGeometry x="331" y="674" width="144" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
