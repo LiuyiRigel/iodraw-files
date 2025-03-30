@@ -235,8 +235,11 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-82" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="105" y="165" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-83" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="175" width="110" height="40" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-83" value="neck" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-84" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="125" y="185" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
