@@ -25,11 +25,14 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-8" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-10" value="C3K2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dArM8sgQJal5dEUl7qLk-13" target="dArM8sgQJal5dEUl7qLk-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dArM8sgQJal5dEUl7qLk-11" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="dArM8sgQJal5dEUl7qLk-13" value="C3K2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-14" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
