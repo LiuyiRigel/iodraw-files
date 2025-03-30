@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-27" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="294" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="294" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dArM8sgQJal5dEUl7qLk-28" target="dArM8sgQJal5dEUl7qLk-30">
           <mxGeometry relative="1" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="405" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dArM8sgQJal5dEUl7qLk-84" value="Head" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="865" y="270" width="70" height="40" as="geometry" />
+          <mxGeometry x="860" y="270" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
