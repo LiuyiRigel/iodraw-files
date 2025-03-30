@@ -489,6 +489,9 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-144" value="192 x 40 x 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="490" y="634" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-145" value="192 x 40 x 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="644" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
