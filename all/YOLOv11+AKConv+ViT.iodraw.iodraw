@@ -229,6 +229,9 @@
         <mxCell id="dArM8sgQJal5dEUl7qLk-78" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1050" y="877" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dArM8sgQJal5dEUl7qLk-81" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="540" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
