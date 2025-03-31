@@ -1159,7 +1159,7 @@
           <mxGeometry x="385" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-5" value="Embedded&lt;div&gt;Patches&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1430" width="150" height="60" as="geometry" />
+          <mxGeometry x="390" y="1430" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-7" value="Multi-Head&amp;nbsp;&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;flipV=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="1280" width="130" height="50" as="geometry" />
