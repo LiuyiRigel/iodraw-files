@@ -1212,6 +1212,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ve2qqajikbxjeFGCCliq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1060" as="sourcePoint" />
+            <mxPoint x="480" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
