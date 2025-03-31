@@ -1399,7 +1399,7 @@
           <mxGeometry x="1436" y="1215.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESiMH-k9sv64hEC5IRcV-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;YOLO-AKVit&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2677" y="343.5" width="180" height="40" as="geometry" />
+          <mxGeometry x="2686.5" y="1310" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
