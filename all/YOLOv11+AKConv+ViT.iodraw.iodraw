@@ -1396,7 +1396,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-93" value="Patch+Position Embedding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="962" width="190" height="30" as="geometry" />
+          <mxGeometry x="1880" y="959" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1905" y="988" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
