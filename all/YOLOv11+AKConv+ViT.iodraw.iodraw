@@ -1314,6 +1314,9 @@
         <mxCell id="ve2qqajikbxjeFGCCliq-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="ve2qqajikbxjeFGCCliq-67">
           <mxGeometry y="15" width="30" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-72" value="Transformer Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1128" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
