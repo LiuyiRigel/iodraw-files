@@ -1395,8 +1395,8 @@
         <mxCell id="ESiMH-k9sv64hEC5IRcV-1" value="ViT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4185" y="500.5" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ESiMH-k9sv64hEC5IRcV-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;C3K2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="3455" y="516.5" width="90" height="40" as="geometry" />
+        <mxCell id="ESiMH-k9sv64hEC5IRcV-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;YOLOv11n&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="352.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
