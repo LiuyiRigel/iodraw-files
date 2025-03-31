@@ -2144,11 +2144,11 @@
             <mxPoint x="4140" y="354.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rb6iMhAoEzcTDHyNcc76-18" value="C,5,H,W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="4005" y="450.5" width="100" height="40" as="geometry" />
+        <mxCell id="rb6iMhAoEzcTDHyNcc76-18" value="C , 5 , H , W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="3995" y="450.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TXBxdzKlEZA7mxXXk-SQ-1" value="2N,H,W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="4145" y="556.5" width="90" height="40" as="geometry" />
+        <mxCell id="TXBxdzKlEZA7mxXXk-SQ-1" value="2N , H , W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4135" y="556.5" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
