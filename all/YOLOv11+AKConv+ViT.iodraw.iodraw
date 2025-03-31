@@ -1152,9 +1152,6 @@
             <mxPoint x="2960" y="408.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ve2qqajikbxjeFGCCliq-2" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1310" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
