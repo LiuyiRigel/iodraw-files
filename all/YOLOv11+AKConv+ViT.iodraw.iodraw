@@ -1222,10 +1222,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-21" value="0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1155" width="50" height="25" as="geometry" />
+          <mxGeometry x="90" y="1165" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-22" value="0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1180" width="50" height="25" as="geometry" />
+          <mxGeometry x="90" y="1180" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-23" value="0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1215" width="50" height="25" as="geometry" />
