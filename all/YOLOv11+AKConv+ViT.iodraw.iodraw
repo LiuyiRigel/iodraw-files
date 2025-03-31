@@ -1227,7 +1227,7 @@
         <mxCell id="ve2qqajikbxjeFGCCliq-21" value="0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="ve2qqajikbxjeFGCCliq-42">
           <mxGeometry width="30" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ve2qqajikbxjeFGCCliq-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="ve2qqajikbxjeFGCCliq-42">
+        <mxCell id="ve2qqajikbxjeFGCCliq-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;*&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="ve2qqajikbxjeFGCCliq-42">
           <mxGeometry y="15" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ve2qqajikbxjeFGCCliq-43" value="" style="group;fontSize=10;fontStyle=1" vertex="1" connectable="0" parent="1">
