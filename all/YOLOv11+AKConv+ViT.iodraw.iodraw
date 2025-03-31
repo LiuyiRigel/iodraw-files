@@ -1383,8 +1383,11 @@
         <mxCell id="ve2qqajikbxjeFGCCliq-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ve2qqajikbxjeFGCCliq-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="1290" as="sourcePoint" />
-            <mxPoint x="490" y="1280" as="targetPoint" />
+            <mxPoint x="480" y="1283" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1255" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
