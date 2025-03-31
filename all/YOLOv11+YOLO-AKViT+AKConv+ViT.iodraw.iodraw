@@ -2332,6 +2332,9 @@
         <mxCell id="epQT5BpTEi8c_Jxam5Zd-64" value="ViT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4005" y="110" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HH4fsNqc6_1BUAVWQFBs-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="278" width="161" height="161" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
