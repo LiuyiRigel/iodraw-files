@@ -1186,6 +1186,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1241" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ve2qqajikbxjeFGCCliq-16" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1251" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
