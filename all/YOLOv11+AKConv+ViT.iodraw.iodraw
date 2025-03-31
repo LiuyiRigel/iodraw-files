@@ -1398,8 +1398,8 @@
         <mxCell id="ve2qqajikbxjeFGCCliq-93" value="Patch+Position Embedding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1880" y="959" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ve2qqajikbxjeFGCCliq-97" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1884" y="1097" width="146" height="30" as="geometry" />
+        <mxCell id="ve2qqajikbxjeFGCCliq-97" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;*Extra learnable&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap: wrap; background-color: initial;&quot;&gt;&amp;nbsp; [class] embedding&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="980" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
