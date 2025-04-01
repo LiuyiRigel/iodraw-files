@@ -2989,11 +2989,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ntBa3BFL75dLRfLzZs1B" name="第 7 页">
-    <mxGraphModel dx="1141" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nyNF4NZb_WuQRTtvZyL0-1" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="nyNF4NZb_WuQRTtvZyL0-1" value="Conv，k=1,s=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
