@@ -2993,7 +2993,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nyNF4NZb_WuQRTtvZyL0-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="nyNF4NZb_WuQRTtvZyL0-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nyNF4NZb_WuQRTtvZyL0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyNF4NZb_WuQRTtvZyL0-1" target="nyNF4NZb_WuQRTtvZyL0-2">
@@ -3067,6 +3067,9 @@
         </mxCell>
         <mxCell id="nyNF4NZb_WuQRTtvZyL0-14" value="Conv，k=1, s=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="620" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nyNF4NZb_WuQRTtvZyL0-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
