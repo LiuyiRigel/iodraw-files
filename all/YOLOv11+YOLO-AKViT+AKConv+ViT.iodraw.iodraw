@@ -2999,8 +2999,8 @@
         <mxCell id="nyNF4NZb_WuQRTtvZyL0-1" value="Conv，k=1, s=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="430" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nyNF4NZb_WuQRTtvZyL0-2" value="Conv，k=1, s=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="140" height="40" as="geometry" />
+        <mxCell id="nyNF4NZb_WuQRTtvZyL0-2" value="Split" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
