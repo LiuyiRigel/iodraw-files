@@ -2247,7 +2247,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fmaZdPiZ435SuPEeYKLK" name="第 5 页">
-    <mxGraphModel dx="-2708" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-2567" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2503,8 +2503,8 @@
         <mxCell id="epQT5BpTEi8c_Jxam5Zd-63" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;*Extra learnable&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap: wrap; background-color: initial;&quot;&gt;&amp;nbsp; [class] embedding&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3790" y="206.5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epQT5BpTEi8c_Jxam5Zd-64" value="ViT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4005" y="110" width="60" height="40" as="geometry" />
+        <mxCell id="epQT5BpTEi8c_Jxam5Zd-64" value="ViT (Vision Transformer)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="3895" y="110" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HH4fsNqc6_1BUAVWQFBs-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3665" y="343.5" width="151" height="151" as="geometry" />
