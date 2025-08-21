@@ -47,7 +47,7 @@
           <mxGeometry x="-2190" y="-480.00000000000006" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tD_iWhnK6oLZoAdJfrwq-32" value="...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-2250" y="-520.21" width="40" height="30" as="geometry" />
+          <mxGeometry x="-2260" y="-520.21" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tD_iWhnK6oLZoAdJfrwq-33" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;Sensor parameters&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="-520" width="80" height="30" as="geometry" />
