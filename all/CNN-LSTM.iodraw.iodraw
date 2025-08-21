@@ -52,8 +52,8 @@
         <mxCell id="tD_iWhnK6oLZoAdJfrwq-33" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;Sensor parameters&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="-520" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tD_iWhnK6oLZoAdJfrwq-34" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.3333333333333333;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="-640" width="50" height="20" as="geometry" />
+        <mxCell id="tD_iWhnK6oLZoAdJfrwq-34" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.3333333333333333;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-677.74" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
