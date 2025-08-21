@@ -164,7 +164,7 @@
           <mxGeometry x="595" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XCLug_HfbZWDNfr7G8U-59" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 25px;&quot;&gt;FP32&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="937" y="-100" width="80" height="40" as="geometry" />
+          <mxGeometry x="931" y="-100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XCLug_HfbZWDNfr7G8U-60" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 25px;&quot;&gt;INT8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815" y="60" width="80" height="40" as="geometry" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="9XCLug_HfbZWDNfr7G8U-67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Activation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1450" y="155" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-68" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 25px;&quot;&gt;INT8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="70" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
