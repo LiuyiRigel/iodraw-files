@@ -163,8 +163,8 @@
         <mxCell id="9XCLug_HfbZWDNfr7G8U-61" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Quantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="660" y="155" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XCLug_HfbZWDNfr7G8U-62" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Quantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="-50" width="160" height="40" as="geometry" />
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-62" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Quantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2.5;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="-60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XCLug_HfbZWDNfr7G8U-63" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 25px;&quot;&gt;FP32&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="1863.5" y="60" width="80" height="40" as="geometry" />
