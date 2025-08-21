@@ -49,6 +49,9 @@
         <mxCell id="tD_iWhnK6oLZoAdJfrwq-32" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2245" y="-520.21" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tD_iWhnK6oLZoAdJfrwq-33" value="&lt;font style=&quot;font-size: 5px;&quot; face=&quot;Times New Roman&quot;&gt;Sensor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2225" y="-520" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
