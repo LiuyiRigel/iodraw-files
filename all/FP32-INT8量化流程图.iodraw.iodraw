@@ -207,8 +207,11 @@
         <mxCell id="9XCLug_HfbZWDNfr7G8U-76" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;W（FP32）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="-10" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9XCLug_HfbZWDNfr7G8U-77" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;W（FP32）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" width="180" height="50" as="geometry" />
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-77" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Y（FP32）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1568.5" y="-5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-78" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;X（FP32）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-200" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
