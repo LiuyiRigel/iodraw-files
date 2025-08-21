@@ -196,8 +196,8 @@
         <mxCell id="9XCLug_HfbZWDNfr7G8U-69" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Requantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1563.5" y="155" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XCLug_HfbZWDNfr7G8U-70" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Requantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1753.5" y="155" width="190" height="40" as="geometry" />
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-70" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;De-quantization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1748.5" y="155" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
