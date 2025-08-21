@@ -37,8 +37,11 @@
         <mxCell id="9XCLug_HfbZWDNfr7G8U-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;i&gt;&amp;nbsp;C&lt;sub&gt;2,3&lt;/sub&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9XCLug_HfbZWDNfr7G8U-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-12" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;Y&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XCLug_HfbZWDNfr7G8U-13" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;Y&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="110" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
