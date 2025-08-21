@@ -26,7 +26,7 @@
           <mxGeometry x="-2260" y="-446" width="100" height="38.27" as="geometry" />
         </mxCell>
         <mxCell id="tD_iWhnK6oLZoAdJfrwq-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6087332955960307;endAngle=0.8970192407852489;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-2210" y="-730" width="100" height="100" as="geometry" />
+          <mxGeometry x="-2190" y="-710" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
