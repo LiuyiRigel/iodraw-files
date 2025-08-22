@@ -16,8 +16,8 @@
         <mxCell id="7zn40KWWTzAxj7Br-znr-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="710" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7zn40KWWTzAxj7Br-znr-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="720" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="7zn40KWWTzAxj7Br-znr-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="720" y="159.09" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7zn40KWWTzAxj7Br-znr-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="880" y="150" width="60" height="65" as="geometry" />
