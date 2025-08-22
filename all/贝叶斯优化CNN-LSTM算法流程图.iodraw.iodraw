@@ -68,6 +68,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="960" as="sourcePoint" />
             <mxPoint x="940" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="845" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Rdy9dER76P0CtdGcFl5D-3" target="Rdy9dER76P0CtdGcFl5D-2">
@@ -83,6 +86,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="530" as="sourcePoint" />
             <mxPoint x="1180" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="Rdy9dER76P0CtdGcFl5D-10" target="Rdy9dER76P0CtdGcFl5D-7">
