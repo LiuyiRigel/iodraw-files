@@ -373,8 +373,8 @@
             <mxPoint x="732" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-200" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="288" width="50" height="30" as="geometry" />
+        <mxCell id="yRC8kDaRy-h35kOBPyty-200" value="Input&lt;br&gt;32 X3 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="283" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
