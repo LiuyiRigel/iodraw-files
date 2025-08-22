@@ -157,7 +157,7 @@
         <mxCell id="7zn40KWWTzAxj7Br-znr-87" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="1550" y="212" width="18" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="7zn40KWWTzAxj7Br-znr-91" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="7zn40KWWTzAxj7Br-znr-91" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1279" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
