@@ -88,8 +88,8 @@
         <mxCell id="Rdy9dER76P0CtdGcFl5D-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="990" y="535.25" width="370" height="384.75" as="geometry" />
         </mxCell>
-        <mxCell id="Rdy9dER76P0CtdGcFl5D-23" value="CNN-LSTM process&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="413" width="130" height="40" as="geometry" />
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;CNN-LSTM process&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="535.25" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
