@@ -424,8 +424,11 @@
         <mxCell id="yRC8kDaRy-h35kOBPyty-224" value="Feature extraction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=25;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="722" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-225" value="2&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 20px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;×&lt;/span&gt;2&lt;br style=&quot;font-size: 20px;&quot;&gt;Subsampling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="805" y="510" width="130" height="60" as="geometry" />
+        <mxCell id="yRC8kDaRy-h35kOBPyty-225" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; color: rgb(32, 33, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;×5&lt;/span&gt;&lt;/div&gt;Convolution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="607" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yRC8kDaRy-h35kOBPyty-226" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; color: rgb(32, 33, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;×5&lt;/span&gt;&lt;/div&gt;Convolution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="617" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
