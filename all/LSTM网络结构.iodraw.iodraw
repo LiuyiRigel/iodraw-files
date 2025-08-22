@@ -274,21 +274,6 @@
         <mxCell id="yRC8kDaRy-h35kOBPyty-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yRC8kDaRy-h35kOBPyty-154">
           <mxGeometry x="111.82000000000016" y="110" width="40.90909090909091" height="40.90909090909091" as="geometry" />
         </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-155" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=40;direction=west;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1240.52" y="281" width="13.45" height="13.45" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-156" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=40;direction=west;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1258.52" y="296" width="13.45" height="13.45" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-157" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=40;direction=west;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1275.52" y="310" width="13.45" height="13.45" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-158" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=40;direction=west;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1292.52" y="325" width="13.45" height="13.45" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-159" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=40;direction=west;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1309.52" y="339" width="13.45" height="13.45" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
