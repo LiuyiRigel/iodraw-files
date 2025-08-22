@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-200" value="Input&lt;br style=&quot;font-size: 20px;&quot;&gt;32&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 20px; text-align: start; text-wrap: wrap;&quot;&gt;×&lt;/span&gt;&amp;nbsp;3 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;labelBackgroundColor=none;shadow=0;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="554.4399999999999" y="304.09000000000003" width="90" height="60" as="geometry" />
+          <mxGeometry x="554.43" y="249.60000000000002" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-201" value="Feature maps&lt;br style=&quot;font-size: 20px;&quot;&gt;28&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 20px; text-align: start; text-wrap: wrap;&quot;&gt;×&lt;/span&gt;&amp;nbsp;28" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;labelBackgroundColor=none;shadow=0;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="672" y="260" width="130" height="60" as="geometry" />
