@@ -385,6 +385,12 @@
         <mxCell id="yRC8kDaRy-h35kOBPyty-203" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="950.91" y="298.36" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yRC8kDaRy-h35kOBPyty-204" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1072.28" y="293" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yRC8kDaRy-h35kOBPyty-205" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1082.28" y="303" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
