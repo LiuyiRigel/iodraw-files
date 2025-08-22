@@ -199,6 +199,12 @@
         <mxCell id="yRC8kDaRy-h35kOBPyty-139" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
           <mxGeometry x="1173.2660650468447" y="438.8857831325301" width="27.18780510828924" height="27.18780510828924" as="geometry" />
         </mxCell>
+        <mxCell id="yRC8kDaRy-h35kOBPyty-142" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yRC8kDaRy-h35kOBPyty-88" target="yRC8kDaRy-h35kOBPyty-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="540" as="sourcePoint" />
+            <mxPoint x="1200" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
