@@ -86,13 +86,13 @@
           <mxGeometry x="525" y="535.25" width="455" height="384.75" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="990" y="535.25" width="370" height="384.75" as="geometry" />
+          <mxGeometry x="990" y="500" width="370" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;CNN-LSTM process&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="535.25" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Rdy9dER76P0CtdGcFl5D-24" value="&lt;div style=&quot;forced-color-adjust: none; font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Bayesian optimization&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;process&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="460" width="250" height="140" as="geometry" />
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-24" value="&lt;div style=&quot;forced-color-adjust: none; font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;Bayesian optimization&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;process&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="510.5" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
