@@ -386,7 +386,7 @@
           <mxGeometry x="1125.54" y="482" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-216" value="Fully&lt;br style=&quot;font-size: 20px;&quot;&gt;connected&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1331.5" y="500" width="100" height="90" as="geometry" />
+          <mxGeometry x="1356.5" y="414" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-217" value="C&lt;sub style=&quot;font-size: 20px;&quot;&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="717" y="229.95000000000002" width="50" height="40" as="geometry" />
@@ -407,7 +407,7 @@
           <mxGeometry x="1281.5" y="233" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-223" value="Classification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=25;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="557.64" width="160" height="40" as="geometry" />
+          <mxGeometry x="1420" y="550.37" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-224" value="Feature extraction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=25;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="779.09" y="560" width="200" height="40" as="geometry" />
