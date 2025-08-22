@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2iropAa6ewYFfMDlwoJ8">
-    <mxGraphModel dx="581" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,21 +378,6 @@
         </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-201" value="Feature maps&lt;br&gt;28&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 16px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;×&lt;/span&gt;&amp;nbsp;28" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="288" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-202" value="Feature maps&lt;div&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 16px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;×&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="829.55" y="291.36" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-203" value="Feature maps&lt;div&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 16px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;×&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="950.91" y="283" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-204" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1072.28" y="293" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-205" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1251.5" y="263" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-206" value="Feature maps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1142.73" y="253" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
