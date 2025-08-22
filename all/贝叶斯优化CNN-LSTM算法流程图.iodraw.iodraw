@@ -13,7 +13,7 @@
         <mxCell id="Rdy9dER76P0CtdGcFl5D-3" value="Test&lt;br&gt;Accuracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rdy9dER76P0CtdGcFl5D-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-4" value="CNN-LSTM&lt;br&gt;Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
