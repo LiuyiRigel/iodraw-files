@@ -247,9 +247,6 @@
             <mxPoint x="1280" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRC8kDaRy-h35kOBPyty-190" value="" style="group;rotation=0;fillColor=default;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1223.6401948466055" y="290.46019484660536" width="209.1408729652601" height="193.63961030678922" as="geometry" />
-        </mxCell>
         <mxCell id="yRC8kDaRy-h35kOBPyty-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#edf2fa;" vertex="1" parent="1">
           <mxGeometry x="990.0036363636364" y="329.99727272727273" width="40.90909090909091" height="40.90909090909091" as="geometry" />
         </mxCell>
