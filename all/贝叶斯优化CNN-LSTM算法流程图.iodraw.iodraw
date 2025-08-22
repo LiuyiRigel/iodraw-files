@@ -19,10 +19,10 @@
         <mxCell id="Rdy9dER76P0CtdGcFl5D-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rdy9dER76P0CtdGcFl5D-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-6" value="Train set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rdy9dER76P0CtdGcFl5D-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-7" value="Hyper paramater&lt;br&gt;combination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-8" value="CNN-LSTM&lt;br&gt;Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
