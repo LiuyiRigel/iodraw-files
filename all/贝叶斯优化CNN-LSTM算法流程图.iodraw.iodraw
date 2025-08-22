@@ -23,16 +23,16 @@
           <mxGeometry x="585" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-7" value="Hyper paramater&lt;br style=&quot;font-size: 20px;&quot;&gt;combination" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="780" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="800" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-8" value="CNN-LSTM&lt;br style=&quot;font-size: 20px;&quot;&gt;Training" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="680" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-9" value="Hyper parameter&lt;br style=&quot;font-size: 20px;&quot;&gt;combination&lt;br style=&quot;font-size: 20px;&quot;&gt;pre-evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="590.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="530" width="120" height="120.5" as="geometry" />
         </mxCell>
         <mxCell id="Rdy9dER76P0CtdGcFl5D-10" value="Hyper parameter&lt;br style=&quot;font-size: 20px;&quot;&gt;combination&lt;br style=&quot;font-size: 20px;&quot;&gt;update" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="700.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="700.5" width="120" height="119.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
