@@ -31,6 +31,9 @@
         <mxCell id="Rdy9dER76P0CtdGcFl5D-9" value="Hyperparameter&lt;br&gt;combination&lt;br&gt;pre-evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Rdy9dER76P0CtdGcFl5D-10" value="Hyperparameter&lt;br&gt;combination&lt;br&gt;update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
