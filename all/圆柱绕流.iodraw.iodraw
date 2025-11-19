@@ -43,8 +43,11 @@
         <mxCell id="KJ-CiuzddNrUQeLJujTY-20" value="Inlet_Air_running_speed&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KJ-CiuzddNrUQeLJujTY-21" value="Inlet_Air_running_speed&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="420" width="150" height="40" as="geometry" />
+        <mxCell id="KJ-CiuzddNrUQeLJujTY-21" value="&lt;div&gt;&lt;div&gt;Outlet_Ambient pressure&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="425" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-CiuzddNrUQeLJujTY-22" value="&lt;div&gt;&lt;div&gt;Outlet_Ambient pressure&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="435" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
