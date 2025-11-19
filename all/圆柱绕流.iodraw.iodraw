@@ -40,11 +40,11 @@
             <mxPoint x="750" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJ-CiuzddNrUQeLJujTY-20" value="Inlet_Air_running_speed&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="405" width="180" height="50" as="geometry" />
+        <mxCell id="KJ-CiuzddNrUQeLJujTY-20" value="Inlet_Air_running_speed&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;v = 5 m s&lt;sup&gt;-1&lt;/sup&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="409" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJ-CiuzddNrUQeLJujTY-21" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Outlet_Ambient pressure&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="399" width="180" height="30" as="geometry" />
+          <mxGeometry x="660" y="399" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ-CiuzddNrUQeLJujTY-22" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Moving ground&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="370" y="680" width="120" height="30" as="geometry" />
