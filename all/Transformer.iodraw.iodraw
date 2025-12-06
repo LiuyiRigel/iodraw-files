@@ -7,7 +7,7 @@
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-2" value="Soft-max" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JNVEQDBO4cV5aX5Wwpms-3" value="q&lt;sup style=&quot;font-size: 30px;&quot;&gt;1&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9dafc8;strokeColor=#3c4e68;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="JNVEQDBO4cV5aX5Wwpms-3" value="q&lt;sup style=&quot;font-size: 30px;&quot;&gt;1&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9cb5d8;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-4" value="k&lt;sup style=&quot;font-size: 30px;&quot;&gt;1&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
