@@ -7,13 +7,13 @@
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-2" value="Soft-max" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JNVEQDBO4cV5aX5Wwpms-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6287bc;strokeColor=#3c4e68;" vertex="1" parent="1">
+        <mxCell id="JNVEQDBO4cV5aX5Wwpms-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9dafc8;strokeColor=#3c4e68;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JNVEQDBO4cV5aX5Wwpms-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JNVEQDBO4cV5aX5Wwpms-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="215" y="400" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JNVEQDBO4cV5aX5Wwpms-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JNVEQDBO4cV5aX5Wwpms-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
