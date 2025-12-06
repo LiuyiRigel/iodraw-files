@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-2" value="Soft-max" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="260" width="140" height="50" as="geometry" />
+          <mxGeometry x="40" y="260" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-3" value="q&lt;sup style=&quot;font-size: 30px;&quot;&gt;1&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9cb5d8;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=30;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="70" height="60" as="geometry" />
@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="JNVEQDBO4cV5aX5Wwpms-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="64.47" y="410" as="sourcePoint" />
-            <mxPoint x="64.47" y="340" as="targetPoint" />
+            <mxPoint x="164.47" y="400" as="sourcePoint" />
+            <mxPoint x="164.47" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
