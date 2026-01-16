@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="698" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-0" value="2026/1/21&lt;div&gt;完成实验数据合并处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-1" target="Wfg2mPgd8x7kS6qnUA4G-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,34 +17,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-1" value="2026/1/31&lt;div&gt;完成Mamba Out（SSMs）消融实验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-3" target="Wfg2mPgd8x7kS6qnUA4G-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-3" value="2026/2/10&lt;div&gt;完成SCI初稿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-5" target="Wfg2mPgd8x7kS6qnUA4G-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-5" value="证明Mamba在声发射分类信号中不适用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-7" target="Wfg2mPgd8x7kS6qnUA4G-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-7" value="2026/2/10&lt;div&gt;完成SCI初稿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-9" target="Wfg2mPgd8x7kS6qnUA4G-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-9" value="实验/制图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-11" value="2026/2/5&lt;div&gt;2024大创结项&lt;/div&gt;&lt;div&gt;经费使用相关&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-12" value="2026/2/20&lt;div&gt;完成SCI翻译&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
