@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-21" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;SCI&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;dashed=1;dashPattern=1 4;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-21" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;SCI&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;dashed=1;dashPattern=1 4;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="90" width="940" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-20" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;大创&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;dashPattern=1 4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -68,7 +68,7 @@
           <mxGeometry x="100" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="140" width="370" height="370" as="geometry" />
+          <mxGeometry x="800" y="115" width="370" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
