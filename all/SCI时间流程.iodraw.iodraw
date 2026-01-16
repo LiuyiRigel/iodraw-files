@@ -61,8 +61,8 @@
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-19" value="2026/5&lt;br&gt;&lt;div&gt;........&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="230" width="350" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
