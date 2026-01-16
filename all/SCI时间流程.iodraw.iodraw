@@ -37,6 +37,9 @@
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-9" value="实验/制图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-11" value="2026/2/10&lt;div&gt;完成SCI初稿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
