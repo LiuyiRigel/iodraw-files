@@ -10,8 +10,8 @@
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-0" value="2026/1/21&lt;div&gt;完成实验数据合并处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-1" value="2026/1/31&lt;div&gt;完成Mamba Out（SSMs）消融实验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
