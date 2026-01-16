@@ -31,14 +31,20 @@
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-5" value="证明Mamba在声发射分类信号中不适用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wfg2mPgd8x7kS6qnUA4G-7" target="Wfg2mPgd8x7kS6qnUA4G-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-7" value="2026/2/10&lt;div&gt;完成SCI初稿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-9" value="实验/制图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wfg2mPgd8x7kS6qnUA4G-11" value="2026/2/5&lt;div&gt;2024大创结项&lt;/div&gt;&lt;div&gt;经费使用相关&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wfg2mPgd8x7kS6qnUA4G-12" value="2026/2/20&lt;div&gt;完成SCI翻译&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
