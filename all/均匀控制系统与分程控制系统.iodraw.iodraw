@@ -324,10 +324,10 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="xQWplwdoeb2q5ek0F_lS-76" target="xQWplwdoeb2q5ek0F_lS-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-76" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-76" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fillColor=#f8cecc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1756" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-77" value="被控对象" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-77" value="被控对象" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2021" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="xQWplwdoeb2q5ek0F_lS-77">
