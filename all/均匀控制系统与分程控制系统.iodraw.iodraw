@@ -1301,6 +1301,42 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-109" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1661.55" y="25.5" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-110" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="272.5" as="sourcePoint" />
+            <mxPoint x="1590" y="72.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-111" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="271.5" as="sourcePoint" />
+            <mxPoint x="1870" y="272.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="112.5" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-113" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;阀门开度&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="160.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-114" value="100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="75.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-115" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="243" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-116" value="0.02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="268" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-117" value="0.06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="268" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-118" value="0.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="268" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-119" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1661.55" y="298" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
