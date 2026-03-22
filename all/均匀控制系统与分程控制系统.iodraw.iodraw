@@ -284,7 +284,7 @@
             <mxPoint x="160" y="20" as="sourcePoint" />
             <mxPoint x="210" y="-30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="60" />
+              <mxPoint x="110" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -311,6 +311,9 @@
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-71" value="给定值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="-130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-72" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
