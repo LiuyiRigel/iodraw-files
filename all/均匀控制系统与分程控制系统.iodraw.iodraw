@@ -2042,7 +2042,7 @@
           <mxGeometry x="4050" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-322" value="测量元件与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3540" y="1550" width="220" height="60" as="geometry" />
+          <mxGeometry x="3600" y="1550" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-323" value="测量元件与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3540" y="1660" width="220" height="60" as="geometry" />
@@ -2083,10 +2083,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-334" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-334" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-322" target="wMzaJgkLCjBgu6Aub-7w-325">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3240" y="1600" as="sourcePoint" />
             <mxPoint x="3290" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3520" y="1580" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
