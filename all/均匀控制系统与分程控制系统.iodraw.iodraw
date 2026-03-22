@@ -119,10 +119,10 @@
             <mxPoint x="550" y="-546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-32" value="前塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-32" value="前塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1380" y="-710" width="120" height="456" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-33" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-33" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1950" y="-734" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-34" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=23;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
