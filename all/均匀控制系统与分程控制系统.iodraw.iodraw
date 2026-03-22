@@ -1260,10 +1260,10 @@
           <mxGeometry x="3341.55" y="-380" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-98" value="&lt;font style=&quot;font-size: 30px; font-weight: normal;&quot;&gt;同向动作&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3080" y="-67" width="140" height="50" as="geometry" />
+          <mxGeometry x="2783" y="40.5" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-99" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;异向动作&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3076.55" y="304.6000000000001" width="140" height="50" as="geometry" />
+          <mxGeometry x="2783" y="426.0000000000001" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-100" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
