@@ -2152,9 +2152,6 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-348" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4170" y="1413" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-355" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-349" target="wMzaJgkLCjBgu6Aub-7w-354">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-349" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="4030" y="-237" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2183,6 +2180,9 @@
               <mxPoint x="4295" y="-162" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-356" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-354" target="wMzaJgkLCjBgu6Aub-7w-349">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-354" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="3830" y="-237" width="120" height="60" as="geometry" />
