@@ -566,22 +566,22 @@
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-32" value="" style="endArrow=none;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1650.5" y="540" as="sourcePoint" />
-            <mxPoint x="1701.5" y="540" as="targetPoint" />
+            <mxPoint x="1639" y="740" as="sourcePoint" />
+            <mxPoint x="1690" y="740" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-33" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1651" y="510" as="sourcePoint" />
-            <mxPoint x="1702" y="510" as="targetPoint" />
+            <mxPoint x="1639.5" y="710" as="sourcePoint" />
+            <mxPoint x="1690.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;流量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1705" y="490" width="60" height="40" as="geometry" />
+          <mxGeometry x="1693.5" y="690" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-35" value="液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1705" y="520" width="60" height="40" as="geometry" />
+          <mxGeometry x="1693.5" y="720" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
