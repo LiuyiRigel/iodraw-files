@@ -415,7 +415,7 @@
           <mxGeometry x="362" y="-290" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-114" value="液位 - 流量均匀控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="425" y="113" width="230" height="40" as="geometry" />
+          <mxGeometry x="500" y="110" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-2" value="" style="shape=mxgraph.pid.vessels.tower;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="194" y="-668" width="118" height="452" as="geometry" />
