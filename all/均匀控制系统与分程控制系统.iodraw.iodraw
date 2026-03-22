@@ -1339,75 +1339,75 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-120" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1935" as="sourcePoint" />
-            <mxPoint x="1935" y="-200" as="targetPoint" />
+            <mxPoint x="1930" y="-2" as="sourcePoint" />
+            <mxPoint x="1930" y="-202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-121" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1935" y="-1" as="sourcePoint" />
-            <mxPoint x="2215" as="targetPoint" />
+            <mxPoint x="1930" y="-3" as="sourcePoint" />
+            <mxPoint x="2210" y="-2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-122" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1935" y="-160" width="250" height="160" as="geometry" />
+          <mxGeometry x="1930" y="-162" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-123" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;阀门开度&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1865" y="-112" width="100" height="40" as="geometry" />
+          <mxGeometry x="1860" y="-114" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-124" value="100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="-197" width="70" height="40" as="geometry" />
+          <mxGeometry x="1870" y="-202" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-125" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="-29.5" width="30" height="40" as="geometry" />
+          <mxGeometry x="1900" y="-31.5" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-126" value="0.02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="-4.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1905" y="-6.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-127" value="0.06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="-4.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="2025" y="-6.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-128" value="0.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="-4.5" width="50" height="40" as="geometry" />
+          <mxGeometry x="2155" y="-6.5" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-129" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2006.55" y="25.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="2001.55" y="23.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-130" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1935" y="272.5" as="sourcePoint" />
-            <mxPoint x="1935" y="72.5" as="targetPoint" />
+            <mxPoint x="1930" y="270.5" as="sourcePoint" />
+            <mxPoint x="1930" y="70.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-131" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1935" y="271.5" as="sourcePoint" />
-            <mxPoint x="2215" y="272.5" as="targetPoint" />
+            <mxPoint x="1930" y="269.5" as="sourcePoint" />
+            <mxPoint x="2210" y="270.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1935" y="112.5" width="250" height="160" as="geometry" />
+          <mxGeometry x="1930" y="110.5" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-133" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;阀门开度&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1865" y="160.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="1860" y="158.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-134" value="100%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="75.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="1870" y="70.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-135" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="243" width="30" height="40" as="geometry" />
+          <mxGeometry x="1900" y="241" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-136" value="0.02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="268" width="60" height="40" as="geometry" />
+          <mxGeometry x="1905" y="266" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-137" value="0.06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="268" width="60" height="40" as="geometry" />
+          <mxGeometry x="2025" y="266" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-138" value="0.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="268" width="50" height="40" as="geometry" />
+          <mxGeometry x="2155" y="266" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-139" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2006.55" y="298" width="110" height="40" as="geometry" />
+          <mxGeometry x="2001.55" y="296" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
