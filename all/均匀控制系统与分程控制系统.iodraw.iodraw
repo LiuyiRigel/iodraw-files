@@ -1403,10 +1403,16 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-139" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1991.55" y="298" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-140" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="-30" as="sourcePoint" />
             <mxPoint x="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1836.55" y="-160" as="sourcePoint" />
+            <mxPoint x="1711.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
