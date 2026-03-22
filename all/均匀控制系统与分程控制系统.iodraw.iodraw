@@ -2323,8 +2323,11 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-398" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="2810" y="-132" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-399" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-399" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmin&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="2810" y="-87" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-400" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmin&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="-82" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
