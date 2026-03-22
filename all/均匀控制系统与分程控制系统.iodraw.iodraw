@@ -477,8 +477,8 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-112" value="测量值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="272" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-113" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-322" width="50" height="30" as="geometry" />
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-113" value="精馏段冷凝器压力和气相出料均匀控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-322" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
