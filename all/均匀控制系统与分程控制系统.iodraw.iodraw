@@ -61,6 +61,12 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-22" value="冷凝器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xQWplwdoeb2q5ek0F_lS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="150" as="sourcePoint" />
+            <mxPoint x="200" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
