@@ -2021,7 +2021,7 @@
           <mxGeometry x="3335" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-318" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1421" width="120" height="60" as="geometry" />
+          <mxGeometry x="3606.55" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-319" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3820" y="1421" width="120" height="60" as="geometry" />
@@ -2043,6 +2043,12 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-325" value="&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-size: 32px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px;&quot;&gt;∑&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3491.55" y="1421" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-326" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3030" y="1170" as="sourcePoint" />
+            <mxPoint x="3080" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
