@@ -481,7 +481,7 @@
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1841" y="860" as="sourcePoint" />
-            <mxPoint x="2200" y="860" as="targetPoint" />
+            <mxPoint x="2210" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-22" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
@@ -585,22 +585,22 @@
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-36" value="" style="endArrow=none;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1660.5" y="550" as="sourcePoint" />
-            <mxPoint x="1711.5" y="550" as="targetPoint" />
+            <mxPoint x="2090" y="740" as="sourcePoint" />
+            <mxPoint x="2141" y="740" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-37" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1661" y="520" as="sourcePoint" />
-            <mxPoint x="1712" y="520" as="targetPoint" />
+            <mxPoint x="2090.5" y="710" as="sourcePoint" />
+            <mxPoint x="2141.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;流量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="500" width="60" height="40" as="geometry" />
+          <mxGeometry x="2144.5" y="690" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-39" value="液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1715" y="530" width="60" height="40" as="geometry" />
+          <mxGeometry x="2144.5" y="720" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
