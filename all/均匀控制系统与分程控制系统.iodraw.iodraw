@@ -394,7 +394,7 @@
           <mxGeometry x="912" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-107" value="后塔进料液体流量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="972" y="220" width="180" height="40" as="geometry" />
+          <mxGeometry x="1082" y="414" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-108" value="操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="722" y="220" width="100" height="40" as="geometry" />
