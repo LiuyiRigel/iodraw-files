@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-21" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="548.44" y="455" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="455" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-22" value="冷凝器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="90" height="40" as="geometry" />
@@ -104,7 +104,7 @@
             <mxPoint x="570" y="630" as="sourcePoint" />
             <mxPoint x="620" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="615" y="495" />
+              <mxPoint x="640" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
