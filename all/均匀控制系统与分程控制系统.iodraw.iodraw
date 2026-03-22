@@ -466,7 +466,7 @@
           <mxGeometry x="1975" y="-506" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-11" value="" style="shape=mxgraph.pid.heat_exchangers.shell_and_tube_heat_exchanger_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-742" width="60" height="60" as="geometry" />
+          <mxGeometry x="400" y="-722" width="60" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
