@@ -2299,7 +2299,7 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-391" value="最大流通能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="2687.93" y="-285" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-392" value="最大流通能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-392" value="最小流通能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="2687.93" y="-210" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
