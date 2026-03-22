@@ -2294,28 +2294,28 @@
           <mxGeometry x="2343" y="2380" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-390" value="&lt;font face=&quot;Times New Roman&quot;&gt;R=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="-256" width="50" height="40" as="geometry" />
+          <mxGeometry x="2810" y="-284" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-391" value="最大流通能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="-282" width="160" height="40" as="geometry" />
+          <mxGeometry x="2870" y="-310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-392" value="最小流通能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="-232" width="160" height="40" as="geometry" />
+          <mxGeometry x="2870" y="-260" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-393" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.867;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wMzaJgkLCjBgu6Aub-7w-395">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2670" y="-240" as="sourcePoint" />
-            <mxPoint x="2850" y="-240" as="targetPoint" />
+            <mxPoint x="2860" y="-268" as="sourcePoint" />
+            <mxPoint x="3040" y="-268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-394" value="&lt;font face=&quot;Times New Roman&quot;&gt;= 30&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="-256" width="70" height="40" as="geometry" />
+          <mxGeometry x="3090" y="-284" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-395" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;max&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="-292" width="80" height="50" as="geometry" />
+          <mxGeometry x="3010" y="-320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-396" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;min&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2825" y="-242" width="70" height="50" as="geometry" />
+          <mxGeometry x="3015" y="-270" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-397" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Amax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="3490" y="-430" width="90" height="50" as="geometry" />
@@ -2391,6 +2391,9 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-423" value="&lt;font face=&quot;Times New Roman&quot;&gt;= 782&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="3610" y="-62" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-424" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3175" y="-192" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
