@@ -559,10 +559,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-30" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;流量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1660" y="475" width="70" height="40" as="geometry" />
+          <mxGeometry x="1640" y="460" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iCm0Bp0FyinAW9DZjJ96-31" value="液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1695" y="530" width="50" height="30" as="geometry" />
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-31" value="液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1640" y="505" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
