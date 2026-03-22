@@ -2143,8 +2143,8 @@
             <mxPoint x="3620" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-343" value="干扰变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3620" y="1281" width="70" height="30" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-343" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;干扰变量&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3595" y="1276" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
