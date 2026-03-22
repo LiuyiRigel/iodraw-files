@@ -1265,16 +1265,16 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-99" value="异向动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1230" y="-92" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-100" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" as="sourcePoint" />
             <mxPoint x="1590" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-101" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" y="10" as="sourcePoint" />
-            <mxPoint x="1820" y="10" as="targetPoint" />
+            <mxPoint x="1590" y="-1" as="sourcePoint" />
+            <mxPoint x="1810" y="-1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
