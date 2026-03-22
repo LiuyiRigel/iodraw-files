@@ -1116,16 +1116,13 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-62" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="-66.83999999999997" y="518" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-64" target="wMzaJgkLCjBgu6Aub-7w-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-64" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1198.4500000000003" y="868" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-66" target="wMzaJgkLCjBgu6Aub-7w-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-66" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-66" value="A控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1473.45" y="868" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-67" value="被控对象" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
