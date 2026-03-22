@@ -284,18 +284,18 @@
             <mxPoint x="160" y="20" as="sourcePoint" />
             <mxPoint x="210" y="-30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="30" />
+              <mxPoint x="130" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="xQWplwdoeb2q5ek0F_lS-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="-170" as="sourcePoint" />
+            <mxPoint x="850" y="-170" as="sourcePoint" />
             <mxPoint x="720" y="-270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-66" value="干扰变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="-162" width="70" height="30" as="geometry" />
+          <mxGeometry x="860" y="-162" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
