@@ -1244,8 +1244,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-90" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;0.06~0.1MP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=25;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1380" y="950" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-91" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;A 阀全程 0.02~0.1MP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="788" width="250" height="40" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-91" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;A 阀全程动作 0.02~0.1MP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="788" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-92" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;B 阀全程动作 0.02~0.1MP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1565" y="980" width="300" height="40" as="geometry" />
