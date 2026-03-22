@@ -275,7 +275,7 @@
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" target="xQWplwdoeb2q5ek0F_lS-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="-90" as="sourcePoint" />
+            <mxPoint x="260" y="-90" as="sourcePoint" />
             <mxPoint x="380" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -310,7 +310,7 @@
           <mxGeometry x="425" y="-130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-71" value="给定值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="-130" width="90" height="40" as="geometry" />
+          <mxGeometry x="250" y="-130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-72" value="测量值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="475" y="-20" width="90" height="40" as="geometry" />
