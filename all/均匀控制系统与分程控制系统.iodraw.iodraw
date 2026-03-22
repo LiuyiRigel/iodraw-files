@@ -2378,10 +2378,13 @@
           <mxGeometry x="3137" y="71.75" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-419" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Amax&lt;/sub&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;+&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Bmax&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3145" y="56.75" width="180" height="50" as="geometry" />
+          <mxGeometry x="3190" y="56.75" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-420" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3327" y="59.25" width="90" height="50" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-421" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.908;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3190" y="98" as="sourcePoint" />
+            <mxPoint x="3296" y="99" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
