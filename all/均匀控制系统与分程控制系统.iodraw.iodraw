@@ -2113,10 +2113,16 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-337" value="扰动通道" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3678.27" y="1281" width="146.55" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-338" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-338" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-320" target="wMzaJgkLCjBgu6Aub-7w-337">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3560" y="1270" as="sourcePoint" />
             <mxPoint x="3610" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-339" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-337">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3940" y="1340" as="sourcePoint" />
+            <mxPoint x="3990" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
