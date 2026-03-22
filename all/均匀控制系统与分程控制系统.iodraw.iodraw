@@ -2024,7 +2024,10 @@
           <mxGeometry x="3335" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-318" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3345" y="1431" width="120" height="60" as="geometry" />
+          <mxGeometry x="3590" y="1421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-319" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3820" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
