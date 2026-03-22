@@ -481,10 +481,10 @@
           <mxGeometry x="425" y="113" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-2" value="" style="shape=mxgraph.pid.vessels.tower;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202" y="-672" width="118" height="452" as="geometry" />
+          <mxGeometry x="202" y="-668" width="118" height="452" as="geometry" />
         </mxCell>
-        <mxCell id="iCm0Bp0FyinAW9DZjJ96-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="-472" width="50" height="30" as="geometry" />
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;前塔&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-477" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
