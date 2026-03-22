@@ -496,7 +496,7 @@
             <mxPoint x="2110" y="780" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1810" y="740" />
-              <mxPoint x="1880" y="850" />
+              <mxPoint x="1870" y="830" />
               <mxPoint x="1910" y="820" />
               <mxPoint x="1940" y="770" />
               <mxPoint x="1980" y="840" />
@@ -534,7 +534,7 @@
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-27" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1366" y="590" as="sourcePoint" />
-            <mxPoint x="1716" y="550" as="targetPoint" />
+            <mxPoint x="1716" y="580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1426" y="560" />
               <mxPoint x="1486" y="580" />
