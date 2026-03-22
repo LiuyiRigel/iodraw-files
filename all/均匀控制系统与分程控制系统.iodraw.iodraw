@@ -2329,6 +2329,15 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-401" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Amin&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="2950" y="-242" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-402" value="&lt;font face=&quot;Times New Roman&quot;&gt;R=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="-127" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-403" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2865" y="-107.22" as="sourcePoint" />
+            <mxPoint x="2940" y="-107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
