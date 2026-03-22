@@ -275,7 +275,7 @@
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" target="xQWplwdoeb2q5ek0F_lS-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="-80" as="sourcePoint" />
+            <mxPoint x="20" y="-80" as="sourcePoint" />
             <mxPoint x="110" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -306,8 +306,8 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-69" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380" y="-120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-70" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="-120" width="120" height="40" as="geometry" />
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-70" value="偏差" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="155" y="-120" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
