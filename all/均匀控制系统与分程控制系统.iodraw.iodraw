@@ -2290,6 +2290,9 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-388" value="V2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2359.2099999999996" y="2208" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-389" value="夹套反应釜的分程控制系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2295" y="2378" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
