@@ -1461,7 +1461,10 @@
           <mxGeometry x="1940" y="-44.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-157" value="气闭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="-34.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="2086.55" y="-44.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-158" value="气开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="208" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
