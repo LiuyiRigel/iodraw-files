@@ -495,8 +495,8 @@
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-9" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;后塔&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1975" y="-506" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iCm0Bp0FyinAW9DZjJ96-10" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=diaph" vertex="1" parent="1">
-          <mxGeometry x="1012" y="-571" width="100" height="100" as="geometry" />
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-11" value="" style="shape=mxgraph.pid.heat_exchangers.shell_and_tube_heat_exchanger_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-150" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
