@@ -1110,6 +1110,9 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-59" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;副回路&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="847.35" y="840" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-52.32" y="800" width="1782.32" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
