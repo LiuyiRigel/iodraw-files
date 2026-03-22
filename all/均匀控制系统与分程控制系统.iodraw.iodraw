@@ -1068,6 +1068,12 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-50" value="缓冲容器流量传感器与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="664" y="1140" width="330" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-50" target="wMzaJgkLCjBgu6Aub-7w-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1170" as="sourcePoint" />
+            <mxPoint x="600" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
