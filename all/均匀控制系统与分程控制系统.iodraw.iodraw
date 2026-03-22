@@ -43,8 +43,8 @@
             <mxPoint y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-17" value="" style="shape=collate;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="30" height="74" as="geometry" />
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-17" value="" style="shape=collate;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
