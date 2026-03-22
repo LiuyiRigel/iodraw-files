@@ -10,9 +10,6 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="680" y="184" width="140" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-7" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="80" height="90" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
