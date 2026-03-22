@@ -902,7 +902,7 @@
           <mxGeometry x="570" y="520" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-10" value="缓冲容器&amp;nbsp;&lt;div&gt;气相压力动态&amp;nbsp;&lt;div&gt;出口流动过程&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="860" y="470" width="152" height="160" as="geometry" />
+          <mxGeometry x="860" y="490" width="152" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -945,7 +945,7 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="wMzaJgkLCjBgu6Aub-7w-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="952" y="390" as="sourcePoint" />
+            <mxPoint x="936" y="430" as="sourcePoint" />
             <mxPoint x="822" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
