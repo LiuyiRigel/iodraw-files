@@ -985,12 +985,12 @@
           <mxGeometry x="920" y="1000" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-30" value="缓冲容器&amp;nbsp;&lt;div&gt;气相压力动态&amp;nbsp;&lt;div&gt;出口流动过程&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1412" y="970" width="160" height="120" as="geometry" />
+          <mxGeometry x="1406" y="970" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1504" y="1030" as="sourcePoint" />
-            <mxPoint x="1680" y="1030" as="targetPoint" />
+            <mxPoint x="1498" y="1030" as="sourcePoint" />
+            <mxPoint x="1674" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-33" target="wMzaJgkLCjBgu6Aub-7w-27">
@@ -1028,15 +1028,15 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="wMzaJgkLCjBgu6Aub-7w-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1492" y="880" as="sourcePoint" />
-            <mxPoint x="1370" y="840" as="targetPoint" />
+            <mxPoint x="1486" y="880" as="sourcePoint" />
+            <mxPoint x="1364" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-39" value="干扰变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1493.63" y="920" width="100" height="40" as="geometry" />
+          <mxGeometry x="1487.63" y="920" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-40" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="970" width="100" height="40" as="geometry" />
+          <mxGeometry x="1564" y="970" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-41" value="操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="1122" y="990" width="100" height="40" as="geometry" />
@@ -1065,8 +1065,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-47" value="副流量控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="688.44" y="1000" width="152" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-50" value="缓冲容器流量传感器与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="664" y="1140" width="330" height="60" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-50" value="气相出口流量传感器与变送器（FT）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="664" y="1140" width="386" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-50" target="wMzaJgkLCjBgu6Aub-7w-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
