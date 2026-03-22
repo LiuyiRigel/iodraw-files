@@ -975,7 +975,7 @@
             <mxPoint x="461.75" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-27" value="主压力控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-27" value="主液位控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="181.75" y="900" width="153.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-54" target="wMzaJgkLCjBgu6Aub-7w-30">
