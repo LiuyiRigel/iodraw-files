@@ -394,7 +394,7 @@
           <mxGeometry x="1216" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-92" value="测量值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1441" y="-10" width="80" height="40" as="geometry" />
+          <mxGeometry x="1420" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
