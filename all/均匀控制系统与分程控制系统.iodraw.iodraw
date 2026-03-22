@@ -2359,11 +2359,8 @@
             <mxPoint x="3315" y="-71.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-412" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3255" y="-72" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-413" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;= 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3147" y="-162" width="120" height="50" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-414" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="3247" y="-22" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
