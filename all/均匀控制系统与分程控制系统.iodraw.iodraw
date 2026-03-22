@@ -119,10 +119,10 @@
             <mxPoint x="540" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-32" value="前塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-32" value="前塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1370" y="208" width="120" height="456" as="geometry" />
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-33" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-33" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1940" y="184" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-34" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -170,7 +170,7 @@
             <mxPoint x="1749.37" y="103.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-44" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-44" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1750" y="319" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-45" value="冷凝器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
