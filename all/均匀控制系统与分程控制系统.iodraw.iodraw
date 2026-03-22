@@ -1250,6 +1250,9 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-92" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;B 阀全程动作 0.02~0.1MP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1961.55" y="-446" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1084" y="1350" width="94" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
