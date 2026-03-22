@@ -2036,7 +2036,7 @@
           <mxGeometry x="3820" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-320" value="前馈补偿器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3430" y="1281" width="146.55" height="60" as="geometry" />
+          <mxGeometry x="3426.55" y="1321" width="146.55" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-321" value="被控对象" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4050" y="1421" width="120" height="60" as="geometry" />
@@ -2111,12 +2111,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-337" value="扰动通道" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3678.27" y="1281" width="146.55" height="60" as="geometry" />
+          <mxGeometry x="3674.82" y="1321" width="146.55" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-338" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-320" target="wMzaJgkLCjBgu6Aub-7w-337">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3560" y="1270" as="sourcePoint" />
-            <mxPoint x="3610" y="1220" as="targetPoint" />
+            <mxPoint x="3556.55" y="1310" as="sourcePoint" />
+            <mxPoint x="3606.55" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-339" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-337" target="wMzaJgkLCjBgu6Aub-7w-321">
@@ -2124,7 +2124,7 @@
             <mxPoint x="3940" y="1340" as="sourcePoint" />
             <mxPoint x="3990" y="1290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4110" y="1311" />
+              <mxPoint x="4110" y="1350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2133,7 +2133,7 @@
             <mxPoint x="3290" y="1300" as="sourcePoint" />
             <mxPoint x="3340" y="1250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3215" y="1311" />
+              <mxPoint x="3215" y="1351" />
             </Array>
           </mxGeometry>
         </mxCell>
