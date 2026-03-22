@@ -602,7 +602,7 @@
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-39" value="液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2142.5" y="450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iCm0Bp0FyinAW9DZjJ96-40" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;（a）液位给定值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-40" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;（a）液位给定值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1416" y="420" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
