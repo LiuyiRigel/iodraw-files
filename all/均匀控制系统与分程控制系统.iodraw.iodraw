@@ -2155,8 +2155,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-349" value="A分段控制信号&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap;&quot;&gt;0.02~0.06MP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B分段控制信号&lt;span style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap; background-color: initial;&quot;&gt;0.06~0.1MP&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="4160" y="-310" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-350" value="A 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="-310" width="120" height="90" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-350" value="A 控制阀&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap;&quot;&gt;全程动作 0.02~0.1MP&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="-310" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-351" value="B 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="4340" y="-210" width="120" height="100" as="geometry" />
