@@ -303,6 +303,12 @@
         <mxCell id="xQWplwdoeb2q5ek0F_lS-68" value="操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="-120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-69" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-70" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="-110" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
