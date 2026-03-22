@@ -2324,7 +2324,7 @@
           <mxGeometry x="3137" y="-172" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-399" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmin&lt;/sub&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;=&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3157" y="-20" width="100" height="50" as="geometry" />
+          <mxGeometry x="3147" y="-20" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-401" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Amin&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="2860" y="-110" width="90" height="50" as="geometry" />
@@ -2360,19 +2360,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-414" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;Bmax&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3249" y="-42" width="90" height="50" as="geometry" />
+          <mxGeometry x="3239" y="-42" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-415" value="&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="3285" y="-72" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-416" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.908;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3249" y="4.5" as="sourcePoint" />
-            <mxPoint x="3355" y="5.5" as="targetPoint" />
+            <mxPoint x="3239" y="4.5" as="sourcePoint" />
+            <mxPoint x="3345" y="5.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-417" value="&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3274" y="8" width="40" height="40" as="geometry" />
+          <mxGeometry x="3264" y="8" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-418" value="&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;sup&gt;&#39;&lt;/sup&gt;=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="3370" y="-67" width="60" height="50" as="geometry" />
@@ -2390,7 +2390,7 @@
           <mxGeometry x="3468" y="-44.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-423" value="&lt;font face=&quot;Times New Roman&quot;&gt;= 782&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="3593" y="-62" width="80" height="40" as="geometry" />
+          <mxGeometry x="3610" y="-62" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
