@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="439.68" y="820" width="950.32" height="290" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="439.68" y="820" width="940.32" height="290" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-9" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=23;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="-566" width="120" height="90" as="geometry" />
