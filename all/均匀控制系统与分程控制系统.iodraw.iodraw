@@ -716,6 +716,9 @@
             <mxPoint x="1110.99" y="692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-66" value="" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.fittings.flanged_connection;" vertex="1" parent="1">
+          <mxGeometry x="940" y="670" width="20" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
