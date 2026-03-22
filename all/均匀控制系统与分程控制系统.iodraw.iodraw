@@ -2017,9 +2017,6 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-315" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="2470" y="1361" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-316" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3096.55" y="1421" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-317" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3335" y="1421" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2028,6 +2025,9 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-319" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3820" y="1421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-320" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3456.55" y="1281" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
