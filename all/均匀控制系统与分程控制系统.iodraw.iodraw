@@ -975,7 +975,7 @@
             <mxPoint x="560" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-27" value="压力控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-27" value="主压力控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="301.5" y="1000" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-29" target="wMzaJgkLCjBgu6Aub-7w-30">
@@ -1066,7 +1066,7 @@
           <mxGeometry x="688.44" y="1000" width="152" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-50" value="缓冲容器压力传感器与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="674" y="1340" width="330" height="60" as="geometry" />
+          <mxGeometry x="664" y="1211" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
