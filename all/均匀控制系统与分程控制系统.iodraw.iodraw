@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-550.09" y="1401.93" width="160.09" height="138.07" as="geometry" />
+        </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-920.82" y="1410" width="160.82" height="130" as="geometry" />
         </mxCell>
@@ -618,7 +621,7 @@
           <mxGeometry x="346" y="472.5" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-43" value="" style="shape=mxgraph.pid.vessels.container,_tank,_cistern;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-920.8199999999999" y="1311.93" width="161" height="230" as="geometry" />
+          <mxGeometry x="-920.9999999999999" y="1330" width="161" height="230" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-44" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;LC&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-749.8199999999999" y="1381.93" width="80" height="80" as="geometry" />
@@ -677,7 +680,7 @@
             <mxPoint x="-577.8199999999999" y="1513.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCm0Bp0FyinAW9DZjJ96-55" value="" style="shape=mxgraph.pid.vessels.container,_tank,_cistern;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-55" value="" style="shape=mxgraph.pid.vessels.container,_tank,_cistern;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-550.8199999999999" y="1311.93" width="159.42" height="230" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-56" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;LC&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
@@ -1252,9 +1255,6 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-92" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;B 阀全程动作 0.02~0.1MP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1961.55" y="-446" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-550.09" y="1401.93" width="160.09" height="138.07" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-578" y="1570" width="160.09" height="138.07" as="geometry" />
