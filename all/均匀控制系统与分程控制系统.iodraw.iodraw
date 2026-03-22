@@ -2045,7 +2045,7 @@
           <mxGeometry x="3641.55" y="1550" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-323" value="测量元件与变送器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3540" y="1660" width="220" height="60" as="geometry" />
+          <mxGeometry x="3641.55" y="1660" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-324" value="&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-size: 32px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px;&quot;&gt;∑&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3185" y="1421" width="60" height="60" as="geometry" />
@@ -2090,6 +2090,12 @@
             <Array as="points">
               <mxPoint x="3522" y="1580" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-335" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="1730" as="sourcePoint" />
+            <mxPoint x="3360" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
