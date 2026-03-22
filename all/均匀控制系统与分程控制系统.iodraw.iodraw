@@ -1936,8 +1936,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-260" value="干扰变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="269.44" y="1281" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-294" value="" style="shape=mxgraph.pid.vessels.drum_or_condenser;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1469.22" y="1500" width="825.78" height="280" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-295" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
