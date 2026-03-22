@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-3" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="770" y="-696" width="120" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-9" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=23;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="-566" width="120" height="90" as="geometry" />
         </mxCell>
@@ -104,10 +101,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=23;fontStyle=1" parent="1" source="xQWplwdoeb2q5ek0F_lS-17" target="xQWplwdoeb2q5ek0F_lS-3" edge="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=23;fontStyle=1" parent="1" source="xQWplwdoeb2q5ek0F_lS-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="-716" as="sourcePoint" />
-            <mxPoint x="670" y="-766" as="targetPoint" />
+            <mxPoint x="770" y="-624" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;fontSize=23;fontStyle=1" parent="1" source="xQWplwdoeb2q5ek0F_lS-9" target="xQWplwdoeb2q5ek0F_lS-21" edge="1">
@@ -485,6 +482,9 @@
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;前塔&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="226" y="-476" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iCm0Bp0FyinAW9DZjJ96-4" value="" style="shape=mxgraph.pid.vessels.tower;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-682" width="118" height="452" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
