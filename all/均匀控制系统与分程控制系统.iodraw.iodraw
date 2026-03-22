@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xQWplwdoeb2q5ek0F_lS-2" value="前塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="140" y="344" width="120" height="590" as="geometry" />
+          <mxGeometry x="140" y="344" width="120" height="456" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-3" value="后塔" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="690" y="220" width="120" height="620" as="geometry" />
+          <mxGeometry x="690" y="337" width="120" height="470" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-9" value="缓冲容器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="320" y="450" width="120" height="90" as="geometry" />
@@ -86,7 +86,7 @@
               <mxPoint x="380" y="590" />
               <mxPoint x="340" y="590" />
               <mxPoint x="300" y="590" />
-              <mxPoint x="300" y="500" />
+              <mxPoint x="300" y="464" />
             </Array>
           </mxGeometry>
         </mxCell>
