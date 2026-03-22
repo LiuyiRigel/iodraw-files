@@ -1125,7 +1125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-66" value="A 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1473.45" y="833" width="120" height="60" as="geometry" />
+          <mxGeometry x="1530" y="833" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-67" value="被控对象" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1830" y="868" width="120" height="60" as="geometry" />
@@ -1181,8 +1181,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-77" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="858" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-78" value="操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1608.45" y="823" width="100" height="40" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-78" value="A 操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="823" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-79" value="控制信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="1330.0000000000002" y="858" width="100" height="40" as="geometry" />
@@ -1202,10 +1202,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-84" value="B 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1473.45" y="913" width="120" height="60" as="geometry" />
+          <mxGeometry x="1530" y="913" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-85" value="操纵变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=Helvetica;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1608.45" y="903" width="100" height="40" as="geometry" />
+          <mxGeometry x="1665" y="903" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
