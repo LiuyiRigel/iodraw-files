@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="N8_dKeqxI5dt2HQ5tZ-w">
-    <mxGraphModel dx="7372" dy="4814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1260,7 +1260,7 @@
           <mxGeometry x="3341.55" y="-380" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-98" value="同向动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2805" y="-582" width="120" height="40" as="geometry" />
+          <mxGeometry x="2790" y="-86.25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-99" value="异向动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2815" y="165.5" width="120" height="40" as="geometry" />
@@ -2151,6 +2151,35 @@
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-348" value="被控变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4170" y="1413" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-349" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="-237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-350" value="A 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4385" y="-272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-351" value="B 控制阀" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4385" y="-192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-349" target="wMzaJgkLCjBgu6Aub-7w-350">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4185" y="-197.69000000000005" as="sourcePoint" />
+            <mxPoint x="4295" y="-197.69000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4295" y="-207" />
+              <mxPoint x="4295" y="-242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-353" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=23;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="wMzaJgkLCjBgu6Aub-7w-349" target="wMzaJgkLCjBgu6Aub-7w-351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4183" y="-197" as="sourcePoint" />
+            <mxPoint x="4395" y="-232" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4295" y="-207" />
+              <mxPoint x="4295" y="-162" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
