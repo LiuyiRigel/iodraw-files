@@ -462,14 +462,15 @@
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1361" y="530" as="sourcePoint" />
-            <mxPoint x="1730" y="600" as="targetPoint" />
+            <mxPoint x="1690" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1381" y="580" />
+              <mxPoint x="1440" y="530" />
               <mxPoint x="1501" y="470" />
               <mxPoint x="1540" y="590" />
               <mxPoint x="1570" y="540" />
               <mxPoint x="1610" y="480" />
-              <mxPoint x="1670" y="550" />
+              <mxPoint x="1640" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
