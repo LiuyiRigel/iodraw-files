@@ -1593,10 +1593,10 @@
           <mxGeometry x="1589.5" y="1060" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-186" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;（b）流量给定值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1952.5" y="877.71" width="220" height="40" as="geometry" />
+          <mxGeometry x="2010" y="1060" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-187" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;（c&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;）&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;均匀控制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2393.5" y="886.13" width="190" height="40" as="geometry" />
+          <mxGeometry x="2390" y="1060" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
