@@ -2185,6 +2185,9 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-360" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3200.0000000000005" y="178" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-361" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="213" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
