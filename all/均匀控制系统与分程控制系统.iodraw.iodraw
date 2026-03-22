@@ -829,7 +829,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-89" value="" style="shape=collate;whiteSpace=wrap;html=1;rotation=-270;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="580.28" y="968.58" width="23.44" height="60.01" as="geometry" />
+          <mxGeometry x="580" y="967.84" width="23.44" height="60.01" as="geometry" />
         </mxCell>
         <mxCell id="iCm0Bp0FyinAW9DZjJ96-90" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="585.4349999999997" y="949.995" width="13.13" height="40" as="geometry" />
@@ -879,7 +879,7 @@
             <mxPoint x="640" y="840" as="sourcePoint" />
             <mxPoint x="690" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="810" />
+              <mxPoint x="592" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
