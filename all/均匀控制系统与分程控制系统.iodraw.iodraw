@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="N8_dKeqxI5dt2HQ5tZ-w">
-    <mxGraphModel dx="3144" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5317" dy="3219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2153,33 +2153,33 @@
           <mxGeometry x="199.13000000000008" y="2490.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-349" value="A分段控制信号&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap;&quot;&gt;0.02~0.06MP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B分段控制信号&lt;span style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap; background-color: initial;&quot;&gt;0.06~0.1MP&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2272.9300000000003" y="1570" width="170" height="200" as="geometry" />
+          <mxGeometry x="2453.0000000000005" y="1270" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-350" value="A 控制阀&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap;&quot;&gt;全程动作 0.02~0.1MP&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2472.9300000000003" y="1570" width="270" height="90" as="geometry" />
+          <mxGeometry x="2653.0000000000005" y="1270" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-351" value="B 控制阀&lt;div&gt;&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap;&quot;&gt;全程动作 0.02~0.1MP&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2472.9300000000003" y="1670" width="270" height="100" as="geometry" />
+          <mxGeometry x="2653.0000000000005" y="1370" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-354" value="控制信号&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2025px%3B%26quot%3B%26gt%3B0.02~0.1MP%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontFamily%3DTimes%20New%20Roman%3BfontStyle%3D1%3BfontSize%3D25%3BfontColor%3D%230000FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%223066.55%22%20y%3D%22-462%22%20width%3D%22150%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); font-size: 25px; text-wrap: nowrap; background-color: initial;&quot;&gt;0.02~0.1MP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2122.9300000000003" y="1570" width="150" height="200" as="geometry" />
+          <mxGeometry x="2303.0000000000005" y="1270" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-357" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="wMzaJgkLCjBgu6Aub-7w-349" target="wMzaJgkLCjBgu6Aub-7w-349" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2432.9300000000003" y="1540" as="sourcePoint" />
-            <mxPoint x="2482.9300000000003" y="1490" as="targetPoint" />
+            <mxPoint x="2613.0000000000005" y="1240" as="sourcePoint" />
+            <mxPoint x="2663.0000000000005" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-358" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.009;exitY=0.225;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="wMzaJgkLCjBgu6Aub-7w-349" target="wMzaJgkLCjBgu6Aub-7w-350" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2502.9300000000003" y="1540" as="sourcePoint" />
-            <mxPoint x="2552.9300000000003" y="1490" as="targetPoint" />
+            <mxPoint x="2683.0000000000005" y="1240" as="sourcePoint" />
+            <mxPoint x="2733.0000000000005" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-359" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.009;exitY=0.225;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2442.9300000000003" y="1720" as="sourcePoint" />
-            <mxPoint x="2470.9300000000003" y="1720" as="targetPoint" />
+            <mxPoint x="2623.0000000000005" y="1420" as="sourcePoint" />
+            <mxPoint x="2651.0000000000005" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-360" value="阀压/MPa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" parent="1" vertex="1">
