@@ -1056,8 +1056,8 @@
         <mxCell id="wMzaJgkLCjBgu6Aub-7w-46" value="&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-size: 32px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 32px;&quot;&gt;∑&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560.9300000000001" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMzaJgkLCjBgu6Aub-7w-47" value="&lt;strong data-end=&quot;329&quot; data-start=&quot;310&quot;&gt;气相出口调节阀&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="632" y="1000" width="190" height="60" as="geometry" />
+        <mxCell id="wMzaJgkLCjBgu6Aub-7w-47" value="副流量控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="670" y="1000" width="152" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
