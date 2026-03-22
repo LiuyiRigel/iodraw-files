@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-21" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="501.57" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="505" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xQWplwdoeb2q5ek0F_lS-22" value="冷凝器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="90" height="40" as="geometry" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQWplwdoeb2q5ek0F_lS-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xQWplwdoeb2q5ek0F_lS-27" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.005;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xQWplwdoeb2q5ek0F_lS-9" target="xQWplwdoeb2q5ek0F_lS-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="610" as="sourcePoint" />
             <mxPoint x="500" y="560" as="targetPoint" />
