@@ -1001,13 +1001,16 @@
           <mxGeometry x="-238" y="211" width="10" height="19" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;rotation=-180;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="247" width="120" height="200" as="geometry" />
+          <mxGeometry x="-571" y="243" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;" vertex="1" parent="1">
           <mxGeometry x="-360.5" y="338" width="41" height="52" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
           <mxGeometry x="-430" y="377" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1KY4QGRZyGDmIi2dn_Nz-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner_2;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="50" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
