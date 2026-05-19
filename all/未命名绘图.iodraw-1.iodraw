@@ -934,6 +934,9 @@
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="-990" y="450" width="352" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="1KY4QGRZyGDmIi2dn_Nz-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-999" y="517" width="10" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
