@@ -1010,7 +1010,10 @@
           <mxGeometry x="-430" y="377" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner_2;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-489" y="-10" width="180" height="140" as="geometry" />
+          <mxGeometry x="-346" y="-10" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1KY4QGRZyGDmIi2dn_Nz-44" value="Label" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="50" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
