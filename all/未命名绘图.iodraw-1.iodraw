@@ -1004,10 +1004,10 @@
           <mxGeometry x="-571" y="243" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;" vertex="1" parent="1">
-          <mxGeometry x="-360.5" y="338" width="41" height="52" as="geometry" />
+          <mxGeometry x="-360.72" y="347" width="41" height="52" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner_2;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="324" width="180" height="123" as="geometry" />
+          <mxGeometry x="-446" y="325" width="208" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
