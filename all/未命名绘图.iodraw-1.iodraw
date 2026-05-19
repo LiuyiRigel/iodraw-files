@@ -950,7 +950,7 @@
           <mxGeometry x="-661" y="193" width="10" height="28" as="geometry" />
         </mxCell>
         <mxCell id="1KY4QGRZyGDmIi2dn_Nz-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="-661" y="211" width="13" height="10" as="geometry" />
+          <mxGeometry x="-661" y="211" width="23" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
