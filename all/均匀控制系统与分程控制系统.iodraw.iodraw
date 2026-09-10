@@ -2401,7 +2401,7 @@
             <mxPoint x="-1504.36" y="655.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qr0Bh0RTmmnOKFkWnaje-1" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;精馏段冷凝器压力&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;和气相出料均匀控制&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qr0Bh0RTmmnOKFkWnaje-1" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;精馏段冷凝器压力&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;和气相出料均匀控制&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1567.19" y="398" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
