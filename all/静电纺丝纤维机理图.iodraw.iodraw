@@ -355,7 +355,7 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-146" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=-45;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="820.9953921037163" y="446.61164344311237" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-151" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.6652023846877926;rotation=-45;fillColor=#a9c4eb;" vertex="1" parent="1">
+        <mxCell id="BiipBskTl7U3rY7K9f6g-151" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.6652023846877926;rotation=-40;fillColor=#a9c4eb;" vertex="1" parent="1">
           <mxGeometry x="425.84" y="865.8" width="644" height="223.09" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-155" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.7153912295786742;rotation=-35;fillColor=#a9c4eb;" vertex="1" parent="1">
@@ -596,7 +596,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-236" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#0066CC;rotation=-75;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1025.04" width="50" height="70" as="geometry" />
+          <mxGeometry x="890" y="1201.8799999999999" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
