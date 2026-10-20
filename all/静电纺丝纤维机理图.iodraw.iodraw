@@ -538,7 +538,7 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-214" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1030" as="sourcePoint" />
-            <mxPoint x="750" y="900" as="targetPoint" />
+            <mxPoint x="760" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="757.4683544303798" y="1001.8181818181818" />
               <mxPoint x="680" y="950" />
@@ -548,7 +548,7 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-215" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1030" as="sourcePoint" />
-            <mxPoint x="750" y="900" as="targetPoint" />
+            <mxPoint x="760" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="785.3164556962025" y="1001.8181818181818" />
               <mxPoint x="701.7721518987341" y="938.1818181818181" />
@@ -558,7 +558,7 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-216" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="1040" as="sourcePoint" />
-            <mxPoint x="778" y="890" as="targetPoint" />
+            <mxPoint x="800" y="900" as="targetPoint" />
             <Array as="points">
               <mxPoint x="806.2025316455697" y="1001.8181818181818" />
               <mxPoint x="720" y="940" />
