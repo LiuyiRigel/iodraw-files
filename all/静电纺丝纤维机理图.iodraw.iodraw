@@ -701,7 +701,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-263" value="" style="group;rotation=5;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="569.9974135279796" y="870.0020785647896" width="840.8851729440407" height="618.2758428704209" as="geometry" />
+          <mxGeometry x="569.9974135279796" y="910.0020785647896" width="840.8851729440407" height="618.2758428704209" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-155" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.7153912295786742;rotation=-25;fillColor=#67ab9f;strokeWidth=2;" vertex="1" parent="BiipBskTl7U3rY7K9f6g-263">
           <mxGeometry x="1" y="194" width="838.18" height="230" as="geometry" />
