@@ -19,9 +19,6 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="180.00000000000006" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=85;" vertex="1" parent="1">
-          <mxGeometry x="407" y="192" width="10" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="10" height="80" as="geometry" />
         </mxCell>
@@ -243,6 +240,9 @@
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-3" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=24.784482758620683;rotation=-130;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="166.57" y="199.62" width="443.28" height="412.07" as="geometry" />
+        </mxCell>
+        <mxCell id="BiipBskTl7U3rY7K9f6g-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=85;" vertex="1" parent="1">
+          <mxGeometry x="417.01" y="210" width="10" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
