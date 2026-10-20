@@ -799,8 +799,8 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-283" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap: wrap; font-size: 30px;&quot;&gt;&lt;span style=&quot;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="808" y="870" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-284" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#0066CC;rotation=-60;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="691.5976931065356" y="1269.9994447611957" width="80.25" height="110.59" as="geometry" />
+        <mxCell id="BiipBskTl7U3rY7K9f6g-284" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#0066CC;rotation=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="655.01" y="1315.41" width="48.4" height="80.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
