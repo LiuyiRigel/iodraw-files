@@ -355,14 +355,14 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-146" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=-45;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="820.9953921037163" y="446.61164344311237" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-151" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.6;rotation=-45;fillColor=#a9c4eb;" vertex="1" parent="1">
-          <mxGeometry x="415.7" y="917.21" width="644" height="100" as="geometry" />
+        <mxCell id="BiipBskTl7U3rY7K9f6g-151" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.6652023846877926;rotation=-45;fillColor=#a9c4eb;" vertex="1" parent="1">
+          <mxGeometry x="425.84" y="865.8" width="644" height="223.09" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-155" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.7153912295786742;rotation=-35;fillColor=#a9c4eb;" vertex="1" parent="1">
           <mxGeometry x="560" y="1030" width="838.18" height="230" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-90" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="673.1" y="807.81" width="465.11" height="465.11" as="geometry" />
+          <mxGeometry x="657" y="806.77" width="465.11" height="465.11" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-156" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=45;fillColor=#67AB9F;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="908.9900000000001" y="780" width="48.07" height="518.66" as="geometry" />
