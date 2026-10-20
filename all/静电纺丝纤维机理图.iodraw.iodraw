@@ -359,10 +359,10 @@
           <mxGeometry x="91.46" y="820" width="437.08" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-155" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.7153912295786742;rotation=-30;fillColor=#a9c4eb;" vertex="1" parent="1">
-          <mxGeometry x="194.39" y="1039.2" width="437.08" height="58.15" as="geometry" />
+          <mxGeometry x="264.75" y="1009.19" width="358.68" height="69.31" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-90" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="226.6" y="760" width="340.15" height="340.15" as="geometry" />
+          <mxGeometry x="230" y="757.95" width="340.15" height="340.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
