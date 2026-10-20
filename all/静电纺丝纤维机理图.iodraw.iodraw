@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="opqWPZB03d1zBW4jZR1J">
-    <mxGraphModel dx="1383" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,24 +714,6 @@
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-268" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFC380;strokeColor=#1F0E0D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="786" y="1180" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-269" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="1200" as="sourcePoint" />
-            <mxPoint x="881" y="1140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="868" y="1189.85" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-270" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="892.59" y="1140" as="sourcePoint" />
-            <mxPoint x="943.59" y="1080" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="930.59" y="1129.85" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-271" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
