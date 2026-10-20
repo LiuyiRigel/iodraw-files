@@ -595,8 +595,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-232" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1040" width="100" height="260" as="geometry" />
+        <mxCell id="BiipBskTl7U3rY7K9f6g-232" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=90;" vertex="1" parent="1">
+          <mxGeometry x="870" y="960" width="290" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
