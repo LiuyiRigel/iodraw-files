@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="opqWPZB03d1zBW4jZR1J">
-    <mxGraphModel dx="955" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,8 +220,8 @@
         <mxCell id="BiipBskTl7U3rY7K9f6g-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=85;" vertex="1" parent="1">
           <mxGeometry x="438" y="210" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-88" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=85;" vertex="1" parent="1">
-          <mxGeometry x="790" y="174" width="10" height="110" as="geometry" />
+        <mxCell id="BiipBskTl7U3rY7K9f6g-88" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="10" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
