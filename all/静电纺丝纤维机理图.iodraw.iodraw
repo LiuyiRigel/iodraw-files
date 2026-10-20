@@ -803,7 +803,7 @@
           <mxGeometry x="655.01" y="1320" width="44.99" height="76" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-285" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#EA5959;rotation=0;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="756.73" y="1280" width="63.27" height="71.59" as="geometry" />
+          <mxGeometry x="662" y="1320" width="43.27" height="71.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
