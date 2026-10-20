@@ -595,9 +595,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiipBskTl7U3rY7K9f6g-233" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=13;arrowHead=43;dx2=12.59;" vertex="1" parent="1">
-          <mxGeometry x="693.17" y="990" width="66.83" height="84.65" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
