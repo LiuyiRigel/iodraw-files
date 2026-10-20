@@ -20,13 +20,16 @@
           <mxGeometry x="730" y="180" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="10" height="70" as="geometry" />
+          <mxGeometry x="248.29" y="239.7" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;" vertex="1" parent="1">
           <mxGeometry x="960" y="180" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BiipBskTl7U3rY7K9f6g-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;" vertex="1" parent="1">
           <mxGeometry x="850" y="180" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BiipBskTl7U3rY7K9f6g-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.5862068965518006;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="10" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
